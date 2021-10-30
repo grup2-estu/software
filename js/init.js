@@ -23,9 +23,10 @@ var windowsHeight = $(window).height();
   $('#headerwrap').css('height', windowsHeight + 'px');
 
   $('#headerwrap').backstretch([
-        "images/bg1.webp"
-      , "images/bg2.jpg"
-      , "images/bg3.jpg"
+        "images/tablegame.jpg"
+      , "images/tablegame2.webp"
+      , "images/batak.webp"
+      , "images/tablegame3.webp"
     ], {duration: 3000, fade: 750});
 
 jQuery(document).ready(function(){
